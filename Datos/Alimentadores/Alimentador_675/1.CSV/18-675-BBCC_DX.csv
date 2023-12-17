@@ -1,0 +1,6 @@
+empresa_id,equipo_id,nom_equipo,propiedad,cudn,nodo_id,alimentador_id,tension_prim,cap_nom,num_fases,modo_op,desc_modo,num_etapas,datum,zona,x,y,lat,long
+18,9306436,56208,Inst. de distribució,QA3AD3BK01A0400,39680662,675,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,188388.167,5704887.024,-38.75236170,-72.58788770
+18,9464050,57480,Inst. de distribució,QA3AD3BK01A0400,39620387,675,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,191490.927,5698344.967,-38.81229060,-72.55517440
+18,9496030,58103,Inst. de distribució,QA3AD3BK01A0400,,675,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,192203.843,5698003.384,-38.81561220,-72.54713160
+18,1716157369,REC 3700501,Inst. de distribució,QA3AD3BK01A0400,38355161,675,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,189907.166,5701188.379,-38.78616160,-72.57210170
+18,1717221014,REC 156847,Inst. de distribució,QA3AD3BK01A0400,254566920,675,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,186806.498,5704723.860,-38.75326950,-72.60612750

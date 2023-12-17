@@ -1,0 +1,3 @@
+empresa_id;gen_dx_id;cliente_id;nom_gen_dx;cap_iny;cap_inst;f_potencia;gen_tec;almacenamiento;recurso_energetico;estado;pre_ord;fecha_scr;fecha_cnx;nodo_id;rotulo_poste_camara;td_id;alimentador_id;barra_mt_id;trf_poder_id;subestacion_id;cap_control;lim_fp_cap;lim_fp_ind;fases;tension;datum;zona;x;y;lat;long
+18;5314388;5314388;;6;6;;Fotovoltaico;;SOLAR;Formulario 4;;29-09-2021 12:09;;;267071;439318;665;194;146;;NO;1;1;MONOFASICO;;1;19;188129.036;5703097.04;-38.7683687;-72.5916718
+18;5643462;5643462;;18;40;;Fotovoltaico;;SOLAR;Formulario 4;;24-03-2022 12:03;;39265650;14821;447596;665;194;146;;NO;1;1;TRIFASICO;;1;19;186743.762;5703652;-38.762887;-72.6073339

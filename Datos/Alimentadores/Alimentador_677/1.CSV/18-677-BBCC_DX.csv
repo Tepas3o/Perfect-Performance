@@ -1,0 +1,5 @@
+empresa_id;equipo_id;nom_equipo;propiedad;cudn;nodo_id;alimentador_id;tension_prim;cap_nom;num_fases;modo_op;desc_modo;num_etapas;datum;zona;x;y;lat;long
+18;9183823;55102;Inst. de distribució;QA3AD3BK01A0400;39600562;677;;400 Amperes;3;Banco de condensadores (con controlador);Controlador horario;1;PSAD56;19;177350.03;5700545.671;-38.7874361;-72.7166802
+18;9183825;55101;Inst. de distribució;QA3AD3BK01A0400;37675088;677;;400 Amperes;3;Banco de condensadores (con controlador);Controlador horario;1;PSAD56;19;177355.539;5700591.096;-38.7870297;-72.7165957
+18;9464031;56745;Inst. de distribució;QA3AD3BK01A0400;39677227;677;;400 Amperes;3;Banco de condensadores (con controlador);Controlador horario;1;PSAD56;19;180398.306;5701960.186;-38.775826;-72.6810016
+18;9492717;57456;Inst. de distribució;QA3AD3BK01A0400;38431822;677;;400 Amperes;3;Banco de condensadores (con controlador);Controlador horario;1;PSAD56;19;185618.802;5703008.076;-38.768278;-72.620549

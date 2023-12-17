@@ -1,0 +1,2 @@
+empresa_id,cliente_id,nom_gen_dx,cap_iny,cap_inst,f_potencia,gen_tec,almacenamiento,recurso_energetico,estado,pre_ord,fecha_scr,fecha_icc,fecha_cnx,sol_prorroga,nodo_id,rotulo_poste_camara,alimentador_id,barra_mt_id,trf_poder_id,subestacion_id,cap_control,lim_fp_cap,lim_fp_ind,tension,datum,zona,x,y,lat,long
+18,9561,Dagoberto II,2.880,2.880,1.000,Máquinas Sincrónicas,NO,Diésel/Fuel Oil,Conectado,,19/12/2018 06:12:00,23/07/2019 04:07:56,29/09/2021,SI,,156839,675,194,146,,NO,1.000,1.000,15.000,3,19,186612.312,5704003.123,-72.60631910,-38.75706250

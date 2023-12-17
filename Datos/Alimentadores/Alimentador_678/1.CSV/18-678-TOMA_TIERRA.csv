@@ -1,0 +1,554 @@
+empresa_id,toma_tierra_id,elemento_id,tipo_elemento,propiedad,nodo_id,cudn,tipo_toma_tierra,tipo_electrodo,otros,datum,zona,x,y,lat,long
+18,454287,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182940.865,5698513.288,-38.80774140,-72.65337610
+18,454354,452419,transformador_dx,Inst. de distribució,38282333,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182634.313,5697099.384,-38.82034610,-72.65755050
+18,455154,422997,equipo,Inst. de distribució,39303682,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186779.253,5694257.899,-38.84738450,-72.61119370
+18,455212,8652918,transformador_dx,Inst. de distribució,39623280,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,183166.522,5699893.772,-38.79540790,-72.65014830
+18,455342,447348,transformador_dx,Inst. de distribució,131115070,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187349.175,5702927.136,-38.76962080,-72.60070760
+18,455383,445624,transformador_dx,Inst. de distribució,37712471,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182809.154,5697687.404,-38.81512110,-72.65527000
+18,455564,431802,equipo,Inst. de distribució,37679591,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182597.777,5696036.969,-38.82988710,-72.65846000
+18,455701,417228,equipo,Inst. de distribució,39586122,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,181295.158,5697129.199,-38.81959440,-72.67293070
+18,455778,8112238,transformador_dx,Inst. de distribució,39936210,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186935.656,5703066.721,-38.76821880,-72.60539480
+18,456042,5472759,transformador_dx,Inst. de distribució,37873180,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185556.368,5699772.309,-38.79735600,-72.62274020
+18,456102,451095,transformador_dx,Inst. de distribució,39962031,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185229.113,5695761.230,-38.83331160,-72.62833310
+18,456525,452404,transformador_dx,Inst. de distribució,39611264,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185128.613,5696359.201,-38.82789800,-72.62921520
+18,457317,421660,equipo,Inst. de distribució,38467172,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185544.627,5697707.751,-38.81591890,-72.62381670
+18,457510,418677,equipo,Inst. de distribució,39635715,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185077.896,5696386.937,-38.82763040,-72.62978560
+18,457672,422491,equipo,Inst. de distribució,39279417,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186704.743,5703008.069,-38.76866430,-72.60807410
+18,457728,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185779.906,5695971.091,-38.83162100,-72.62190430
+18,457807,432608,equipo,Inst. de distribució,40277006,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186997.052,5693802.037,-38.85156170,-72.60889630
+18,458070,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186864.901,5703403.950,-38.76516080,-72.60605480
+18,458195,6750939,transformador_dx,Inst. de distribució,38648505,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185610.747,5697622.983,-38.81670480,-72.62309540
+18,458794,9838170,equipo,Inst. de distribució,37930739,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185723.269,5695939.630,-38.83188380,-72.62256990
+18,459021,439331,transformador_dx,Inst. de distribució,37664026,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185768.047,5695939.178,-38.83190380,-72.62205530
+18,459239,6752894,transformador_dx,Inst. de distribució,39806493,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,183067.800,5699044.708,-38.80300800,-72.65167290
+18,459416,9173881,transformador_dx,Inst. de distribució,39303271,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187330.496,5703343.549,-38.76586910,-72.60073370
+18,459420,1717244347,transformador_dx,Inst. de distribució,38700389,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186810.346,5701550.689,-38.78180870,-72.60752190
+18,459448,445634,transformador_dx,Inst. de distribució,37859377,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187043.931,5694532.871,-38.84500570,-72.60802470
+18,459667,445656,transformador_dx,Inst. de distribució,38039355,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186788.520,5703089.946,-38.76795770,-72.60707450
+18,459944,453352,transformador_dx,Inst. de distribució,38118297,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,181809.968,5695967.175,-38.83023040,-72.66754960
+18,460038,9707674,equipo,Inst. de distribució,38197408,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187447.563,5702944.086,-38.76950320,-72.59956960
+18,460454,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186562.256,5701865.178,-38.77889220,-72.61022970
+18,460564,7913419,transformador_dx,Inst. de distribució,39012778,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182672.847,5696422.291,-38.82644900,-72.65741940
+18,460654,7888671,transformador_dx,Inst. de distribució,39350229,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186766.807,5694281.923,-38.84716400,-72.61132580
+18,460897,448392,transformador_dx,Inst. de distribució,37797752,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184085.006,5697602.196,-38.81634590,-72.64064350
+18,461109,449108,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186797.823,5702344.350,-38.77466650,-72.60730580
+18,461563,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,183077.368,5697066.408,-38.82080220,-72.65247260
+18,461844,422840,equipo,Inst. de distribució,38691871,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186872.710,5703157.448,-38.76738050,-72.60607680
+18,461865,423209,equipo,Inst. de distribució,38110675,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186863.586,5703150.068,-38.76744360,-72.60618500
+18,462391,442645,transformador_dx,Inst. de distribució,39171178,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185921.303,5700339.263,-38.79238730,-72.61828810
+18,462483,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187279.584,5703134.588,-38.76773040,-72.60141310
+18,462824,445557,transformador_dx,Inst. de distribució,38143416,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186167.276,5695845.296,-38.83289050,-72.61750780
+18,463531,448829,transformador_dx,Inst. de distribució,160674166,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185725.752,5700126.022,-38.79423530,-72.62063240
+18,463762,418085,equipo,Inst. de distribució,39627691,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184459.431,5697675.937,-38.81581690,-72.63630570
+18,463800,441116,transformador_dx,Inst. de distribució,38122785,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186208.320,5694930.450,-38.84113260,-72.61745290
+18,463832,432114,equipo,Inst. de distribució,38976732,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187251.439,5693861.759,-38.85111510,-72.60594340
+18,464219,9502101,equipo,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,181995.972,5700094.405,-38.79318210,-72.66350710
+18,464278,453578,transformador_dx,Inst. de distribució,40110289,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186711.468,5702170.110,-38.77620280,-72.60837690
+18,464407,1717236963,transformador_dx,Inst. de distribució,38589748,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187567.741,5694078.835,-38.84927520,-72.60220700
+18,464409,447774,transformador_dx,Inst. de distribució,38916123,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186293.039,5701045.873,-38.78616480,-72.61369510
+18,465075,443373,transformador_dx,Inst. de distribució,39653381,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184898.902,5695815.662,-38.83270390,-72.63210490
+18,465502,446510,transformador_dx,Inst. de distribució,38265114,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182169.331,5699256.706,-38.80077800,-72.66190100
+18,465507,6251123,transformador_dx,Inst. de distribució,37850511,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186694.442,5702052.988,-38.77725010,-72.60862570
+18,465767,451465,transformador_dx,Inst. de distribució,38422621,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187002.412,5703486.172,-38.76447010,-72.60443790
+18,465815,9707674,equipo,Inst. de distribució,38197408,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187447.563,5702944.086,-38.76950320,-72.59956960
+18,466036,445404,transformador_dx,Inst. de distribució,37924958,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182373.422,5699747.186,-38.79644070,-72.65932970
+18,466107,422756,equipo,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187142.054,5703680.876,-38.76276860,-72.60274560
+18,466143,1716969825,transformador_dx,Inst. de distribució,38459017,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182950.131,5698616.358,-38.80681780,-72.65322220
+18,466879,448462,transformador_dx,Inst. de distribució,39127849,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186974.399,5694146.660,-38.84845430,-72.60900000
+18,467400,452901,transformador_dx,Inst. de distribució,40246604,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184555.339,5698054.143,-38.81245000,-72.63503010
+18,467555,431226,equipo,Inst. de distribució,39622797,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186722.165,5703308.670,-38.76596700,-72.60773760
+18,467578,442943,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187037.820,5693440.499,-38.85482760,-72.60859190
+18,467655,421538,equipo,Inst. de distribució,37979855,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186747.178,5702292.048,-38.77511890,-72.60791140
+18,467695,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186864.901,5703403.950,-38.76516080,-72.60605480
+18,468088,450191,transformador_dx,Inst. de distribució,39188879,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,180019.207,5697324.106,-38.81737910,-72.68750720
+18,468638,9553664,transformador_dx,Inst. de distribució,37999301,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185329.060,5696762.897,-38.82433920,-72.62672620
+18,468893,1717240437,transformador_dx,Inst. de distribució,39617449,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,181425.978,5696382.003,-38.82636110,-72.67177240
+18,469289,446071,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186727.302,5695703.836,-38.83436220,-72.61113300
+18,469796,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187127.233,5702918.571,-38.76961910,-72.60326110
+18,469857,3038516,transformador_dx,Inst. de distribució,39997668,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186053.900,5694585.698,-38.84417800,-72.61938590
+18,470089,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186562.256,5701865.178,-38.77889220,-72.61022970
+18,470143,449668,transformador_dx,Inst. de distribució,38886153,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186938.669,5703209.921,-38.76693200,-72.60529530
+18,470327,1717205065,transformador_dx,Inst. de distribució,38686401,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185839.374,5700364.008,-38.79213550,-72.61921840
+18,470471,8188274,transformador_dx,Inst. de distribució,38586250,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185947.280,5695360.995,-38.83716750,-72.62025820
+18,471542,432740,equipo,Inst. de distribució,38444910,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185561.718,5697638.504,-38.81654770,-72.62365190
+18,471568,1987840,transformador_dx,Inst. de distribució,38896987,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184498.913,5698665.701,-38.80693000,-72.63539880
+18,471851,453542,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185349.032,5698539.513,-38.80836880,-72.62568540
+18,472133,416753,equipo,Inst. de distribució,38262674,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187240.851,5703131.796,-38.76774180,-72.60185930
+18,472250,444408,transformador_dx,Inst. de distribució,38323415,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185497.668,5697891.417,-38.81425040,-72.62427270
+18,472279,445841,transformador_dx,Inst. de distribució,39972333,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182089.957,5696991.859,-38.82111680,-72.66385770
+18,472364,2193775,transformador_dx,Inst. de distribució,40053464,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185880.647,5694678.413,-38.84328230,-72.62133590
+18,472423,446939,transformador_dx,Inst. de distribució,39331204,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186776.410,5702715.415,-38.77132170,-72.60738350
+18,472569,8850258,transformador_dx,Inst. de distribució,38299804,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187151.490,5703223.061,-38.76688930,-72.60284460
+18,472591,416768,equipo,Inst. de distribució,40131705,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186653.311,5702048.835,-38.77727290,-72.60910010
+18,472615,416950,equipo,Inst. de distribució,37857617,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182038.375,5699727.526,-38.79649670,-72.66318890
+18,473598,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187127.233,5702918.571,-38.76961910,-72.60326110
+18,473917,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186115.497,5695856.145,-38.83277450,-72.61809820
+18,473920,9835993,equipo,Inst. de distribució,39666713,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187086.442,5703330.756,-38.76589770,-72.60354300
+18,474040,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187279.584,5703134.588,-38.76773040,-72.60141310
+18,474233,2287559,transformador_dx,Inst. de distribució,37832294,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186399.593,5696193.350,-38.82984320,-72.61467810
+18,474500,426693,equipo,Inst. de distribució,39806005,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,183121.872,5699351.810,-38.80026570,-72.65091040
+18,474862,444390,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185007.694,5696410.589,-38.82739260,-72.63058190
+18,474899,447012,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184954.984,5696418.955,-38.82729850,-72.63118410
+18,475331,1717194211,transformador_dx,Inst. de distribució,38140268,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,181980.086,5697281.138,-38.81847570,-72.66498720
+18,475337,451465,transformador_dx,Inst. de distribució,38422621,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187002.412,5703486.172,-38.76447010,-72.60443790
+18,475943,9422043,equipo,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185632.553,5696754.372,-38.82452420,-72.62324100
+18,476008,453255,transformador_dx,Inst. de distribució,38915401,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184601.368,5697224.313,-38.81992920,-72.63488080
+18,476269,417265,equipo,Inst. de distribució,39563506,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185333.073,5698540.790,-38.80835160,-72.62586830
+18,476270,426903,equipo,Inst. de distribució,38228623,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182489.789,5698551.312,-38.80723700,-72.65854300
+18,476557,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186610.998,5701959.138,-38.77806450,-72.60962700
+18,477023,442943,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187037.820,5693440.499,-38.85482760,-72.60859190
+18,477234,447267,transformador_dx,Inst. de distribució,37596869,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185781.633,5696275.614,-38.82888300,-72.62174550
+18,616109,616107,transformador_dx,Inst. de distribució,37700082,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186709.093,5694983.323,-38.84083550,-72.61167030
+18,616135,616114,equipo,Inst. de distribució,39505496,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186105.843,5695105.061,-38.83952570,-72.61855170
+18,617380,617382,transformador_dx,Inst. de distribució,38108761,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186292.589,5694634.955,-38.84382010,-72.61661850
+18,641904,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186748.758,5702474.313,-38.77348020,-72.60781050
+18,807943,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,181743.098,5697536.512,-38.81609350,-72.66759340
+18,808235,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182581.549,5699441.215,-38.79926720,-72.65707870
+18,808236,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,183123.523,5699494.330,-38.79898460,-72.65082590
+18,808237,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,183093.285,5699118.201,-38.80235620,-72.65134630
+18,808585,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187126.297,5703255.484,-38.76658870,-72.60311930
+18,808592,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186992.545,5703449.051,-38.76480050,-72.60456810
+18,808596,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187061.077,5703056.979,-38.76835090,-72.60395840
+18,809433,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182173.174,5699275.893,-38.80060680,-72.66184800
+18,809467,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,181967.180,5697736.870,-38.81437270,-72.66492520
+18,809583,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186722.040,5695164.887,-38.83920730,-72.61143870
+18,809640,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,180352.385,5697090.022,-38.81960510,-72.68378600
+18,809900,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182580.776,5697101.549,-38.82030740,-72.65816490
+18,810140,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187025.899,5703587.848,-38.76356400,-72.60412200
+18,810288,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185035.971,5696204.704,-38.82925430,-72.63035100
+18,810292,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185196.781,5699058.528,-38.80364680,-72.62719840
+18,810388,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187458.267,5703040.556,-38.76863940,-72.59940300
+18,810423,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185711.103,5697431.470,-38.81846290,-72.62202910
+18,810430,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187297.242,5703048.343,-38.76851230,-72.60124930
+18,811171,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186211.304,5695834.885,-38.83299990,-72.61700630
+18,811461,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,183111.039,5697958.655,-38.81279040,-72.65167520
+18,811664,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,180986.344,5697091.736,-38.81981950,-72.67649780
+18,811895,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182870.114,5698839.493,-38.80478240,-72.65403920
+18,812209,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,183486.514,5699353.029,-38.80038570,-72.64671920
+18,812288,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185862.799,5694696.998,-38.84310880,-72.62153270
+18,812309,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186716.585,5701772.135,-38.77978380,-72.60849870
+18,812565,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186843.633,5703428.080,-38.76493620,-72.60628810
+18,812567,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186696.410,5703445.417,-38.76472810,-72.60797140
+18,813022,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186208.075,5695765.234,-38.83362510,-72.61707520
+18,813069,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186768.202,5696352.495,-38.82854310,-72.61036760
+18,813378,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187121.400,5701596.634,-38.78150590,-72.60392710
+18,813467,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182729.267,5698041.580,-38.81190730,-72.65602520
+18,813888,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182840.225,5697083.905,-38.82055950,-72.65519060
+18,814255,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185730.106,5694914.713,-38.84110350,-72.62295910
+18,814279,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185004.999,5696406.574,-38.82742780,-72.63061470
+18,814286,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187039.881,5701957.368,-38.77823270,-72.60470020
+18,814309,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185740.741,5700089.408,-38.79457000,-72.62047690
+18,814351,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186358.907,5696198.074,-38.82978620,-72.61514370
+18,814390,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187457.323,5703199.798,-38.76720690,-72.59934180
+18,814391,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187452.452,5703102.576,-38.76807950,-72.59944180
+18,814528,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187001.587,5703370.520,-38.76550990,-72.60449980
+18,814550,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186691.611,5703361.035,-38.76548520,-72.60806480
+18,815831,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182216.269,5695985.773,-38.83020990,-72.66286980
+18,816260,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185963.371,5696812.165,-38.82412250,-72.61941140
+18,816513,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186864.536,5703604.259,-38.76335920,-72.60596820
+18,816522,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186775.833,5703196.432,-38.76699550,-72.60717200
+18,816547,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186882.373,5703380.774,-38.76537540,-72.60586460
+18,817506,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186470.676,5695017.799,-38.84044060,-72.61439620
+18,817884,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185210.900,5697082.063,-38.82142660,-72.62793880
+18,817931,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185763.173,5696295.851,-38.82869440,-72.62194850
+18,818372,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187451.003,5702860.059,-38.77026010,-72.59956810
+18,818519,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187239.804,5703181.476,-38.76729460,-72.60184890
+18,818521,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187148.708,5703107.200,-38.76793030,-72.60292900
+18,818525,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186804.140,5703102.834,-38.76784730,-72.60688930
+18,818532,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186996.312,5703259.559,-38.76650600,-72.60461060
+18,819173,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185563.995,5699954.491,-38.79572030,-72.62256950
+18,819838,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182975.526,5697375.121,-38.81798930,-72.65350120
+18,819884,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184579.326,5697212.923,-38.82002380,-72.63513940
+18,820371,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187271.898,5702909.537,-38.76975160,-72.60160330
+18,820405,416753,equipo,Inst. de distribució,38262674,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187240.851,5703131.796,-38.76774180,-72.60185930
+18,820528,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186920.662,5703333.865,-38.76581090,-72.60544600
+18,820531,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186796.862,5703462.478,-38.76461030,-72.60680980
+18,820609,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185248.221,5695744.650,-38.83346750,-72.62812100
+18,821148,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187218.249,5703337.661,-38.76588230,-72.60202580
+18,821149,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187346.745,5703355.466,-38.76576770,-72.60054160
+18,821399,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184061.462,5697612.015,-38.81624910,-72.64090960
+18,821837,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,181916.285,5695902.722,-38.83084840,-72.66635710
+18,821877,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185229.813,5696773.256,-38.82421050,-72.62786250
+18,822340,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187308.501,5703137.541,-38.76771410,-72.60107960
+18,822347,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187094.211,5702892.627,-38.76984070,-72.60365220
+18,822348,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186978.817,5702938.142,-38.76939050,-72.60495730
+18,822380,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187538.771,5703155.162,-38.76763720,-72.59842640
+18,822495,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187011.524,5703523.193,-38.76414040,-72.60431650
+18,822499,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186951.367,5703046.114,-38.76840970,-72.60522370
+18,822501,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186967.894,5703236.914,-38.76669960,-72.60494730
+18,823341,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,181982.920,5697223.100,-38.81899860,-72.66498140
+18,823465,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186837.834,5694875.732,-38.84184890,-72.61023880
+18,823844,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182495.466,5696687.203,-38.82400280,-72.65933660
+18,824310,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185206.453,5696331.693,-38.82817320,-72.62833280
+18,824349,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187058.197,5703006.371,-38.76880500,-72.60401440
+18,824477,2236640,equipo,Inst. de distribució,37810507,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187141.813,5703372.673,-38.76554030,-72.60288800
+18,825319,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184045.933,5697837.145,-38.81421890,-72.64098490
+18,1858859,1858858,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185260.093,5698781.002,-38.80616530,-72.62659740
+18,1858864,1858861,equipo,Inst. de prop. terce,38569497,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185288.317,5698782.477,-38.80616210,-72.62627240
+18,1865515,1865516,equipo,Inst. de distribució,39458270,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187045.135,5703299.010,-38.76616850,-72.60403190
+18,1866513,1866466,equipo,Inst. de distribució,39846082,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185587.611,5695853.256,-38.83261210,-72.62416910
+18,1869559,8385841,transformador_dx,Inst. de distribució,40312320,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185578.040,5696368.185,-38.82797780,-72.62404400
+18,1869561,1869502,equipo,Inst. de distribució,40346599,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185579.303,5696298.730,-38.82860290,-72.62406120
+18,1869838,438931,transformador_dx,Inst. de distribució,40297313,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185582.781,5696515.560,-38.82665410,-72.62392220
+18,1873011,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185577.189,5696487.091,-38.82690820,-72.62399950
+18,1873799,442015,transformador_dx,Inst. de distribució,38743563,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186844.053,5703177.342,-38.76719140,-72.60639700
+18,1900433,1900420,transformador_dx,Inst. de distribució,38078805,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185784.282,5696523.306,-38.82665640,-72.62160210
+18,1909567,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185785.195,5696560.454,-38.82632270,-72.62157460
+18,1909572,1909562,equipo,Inst. de distribució,38077644,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185762.088,5696501.710,-38.82684270,-72.62186710
+18,1975863,1975871,equipo,Inst. de prop. terce,39790178,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185647.217,5700001.711,-38.79532530,-72.62159160
+18,1975865,1975882,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185658.132,5700002.569,-38.79532150,-72.62146580
+18,1977091,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186488.452,5701594.667,-38.78129880,-72.61120050
+18,1980295,1980294,equipo,Inst. de distribució,38142962,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186910.537,5702356.731,-38.77459510,-72.60600520
+18,1980879,1980878,equipo,Inst. de distribució,39122964,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186434.353,5701490.235,-38.78221880,-72.61186950
+18,1980889,1977071,transformador_dx,Inst. de distribució,39121958,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186455.545,5701535.362,-38.78182040,-72.61160550
+18,1981350,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186857.281,5703161.404,-38.76733940,-72.60625220
+18,1982851,1982850,equipo,Inst. de prop. terce,39988668,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186192.290,5694633.349,-38.84379880,-72.61777270
+18,1982861,1982855,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186171.677,5694646.985,-38.84366880,-72.61800350
+18,1983065,451083,transformador_dx,Inst. de prop. terce,39997563,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186245.807,5694070.771,-38.84887730,-72.61741380
+18,1985248,1985250,equipo,Inst. de distribució,38080877,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187231.621,5702422.669,-38.77411600,-72.60228650
+18,1985249,1985251,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187241.695,5702414.814,-38.77419020,-72.60217430
+18,1985376,1985380,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185609.808,5697385.816,-38.81883740,-72.62321440
+18,1985377,1985396,equipo,Inst. de prop. terce,39130543,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185617.136,5697375.798,-38.81893010,-72.62313470
+18,1988835,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186509.343,5694561.286,-38.84455990,-72.61415950
+18,1989431,449673,transformador_dx,Inst. de distribució,38781302,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186741.468,5696193.790,-38.82996090,-72.61074720
+18,1989661,2200973,equipo,Inst. de prop. terce,40317407,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186254.268,5701245.712,-38.78435380,-72.61404980
+18,1992688,1716543723,equipo,Inst. de prop. terce,39516536,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186331.215,5694033.690,-38.84924120,-72.61644840
+18,2021716,1717260058,equipo,Inst. de distribució,38265143,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185072.003,5696816.274,-38.82376720,-72.62965710
+18,2022883,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186865.710,5703251.019,-38.76653650,-72.60611480
+18,2022886,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186929.517,5703302.375,-38.76609720,-72.60535850
+18,2034816,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185640.942,5695839.969,-38.83275060,-72.62356200
+18,2036529,2036548,equipo,Inst. de prop. terce,39445336,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186493.850,5701151.833,-38.78528330,-72.61133960
+18,2036530,2036545,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186492.617,5701167.085,-38.78514570,-72.61134680
+18,2036531,2036544,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186772.752,5701359.206,-38.78351740,-72.60804080
+18,2036871,2036867,transformador_dx,Inst. de distribució,38772585,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186861.174,5702244.880,-38.77558350,-72.60662310
+18,2036872,2036866,transformador_dx,Inst. de distribució,40093970,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186844.085,5702404.632,-38.77414080,-72.60674700
+18,2036884,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186859.831,5702219.537,-38.77581100,-72.60665000
+18,2036889,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186858.226,5702302.508,-38.77506420,-72.60663080
+18,2036892,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187003.874,5702303.163,-38.77511000,-72.60495720
+18,2036893,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186976.568,5702432.131,-38.77394050,-72.60521240
+18,2036898,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186831.164,5702465.333,-38.77359030,-72.60686790
+18,2039362,2093418,equipo,Inst. de prop. terce,38142510,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186039.044,5700782.725,-38.78844100,-72.61673340
+18,2039385,2084183,equipo,Inst. de distribució,37810858,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186163.822,5701072.194,-38.78588210,-72.61516790
+18,2041358,2041350,equipo,Inst. de prop. terce,39169012,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186452.143,5701519.223,-38.78196440,-72.61165190
+18,2041359,2041344,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186459.709,5701516.110,-38.78199510,-72.61156640
+18,2046098,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186982.681,5703571.516,-38.76369560,-72.60462590
+18,2046099,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186964.992,5703457.690,-38.76471300,-72.60488060
+18,2046100,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186849.831,5703520.153,-38.76411040,-72.60617520
+18,2046101,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186892.998,5703683.660,-38.76265520,-72.60560530
+18,2046320,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186957.643,5703060.709,-38.76828060,-72.60514500
+18,2046389,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187266.850,5703213.096,-38.76701980,-72.60152390
+18,2046390,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187192.574,5703227.091,-38.76686760,-72.60237080
+18,2046399,1867690,transformador_dx,Inst. de distribució,38611483,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185646.980,5695942.592,-38.83182990,-72.62344570
+18,2046418,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187429.989,5703380.294,-38.76557390,-72.59957420
+18,2046419,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187346.562,5703366.336,-38.76566990,-72.60053880
+18,2050071,442622,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186423.905,5701472.350,-38.78237590,-72.61199770
+18,2050081,8365676,transformador_dx,Inst. de distribució,38452822,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186516.412,5701675.244,-38.78058410,-72.61084260
+18,2063954,446031,transformador_dx,Inst. de distribució,40334059,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185225.793,5699122.344,-38.80308330,-72.62683580
+18,2084179,2084183,equipo,Inst. de prop. terce,37810858,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186163.822,5701072.194,-38.78588210,-72.61516790
+18,2084180,2084184,transformador_dx,Inst. de prop. terce,39072811,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186214.246,5701032.969,-38.78625280,-72.61460640
+18,2084194,,otro,Inst. de prop. terce,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186234.015,5701018.573,-38.78638930,-72.61438570
+18,2084236,2084239,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186299.008,5701236.644,-38.78445130,-72.61353980
+18,2084238,2084241,equipo,Inst. de prop. terce,38607283,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186274.710,5701288.355,-38.78397760,-72.61379550
+18,2084516,2038854,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186059.498,5700912.092,-38.78728480,-72.61643950
+18,2090956,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186872.454,5702517.355,-38.77313710,-72.60636990
+18,2093503,2093502,equipo,Inst. de prop. terce,38115864,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186174.884,5701092.575,-38.78570280,-72.61503150
+18,2124685,2124686,equipo,Inst. de distribució,40150780,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185780.208,5696062.333,-38.83080060,-72.62185920
+18,2125293,451494,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185763.690,5696062.097,-38.83079680,-72.62204930
+18,2131745,2131746,equipo,Inst. de distribució,40651244,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187229.582,5702382.489,-38.77447670,-72.60232810
+18,2131776,2131775,transformador_dx,Inst. de distribució,38322321,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187135.549,5702433.866,-38.77398130,-72.60338520
+18,2132093,2132092,transformador_dx,Inst. de distribució,38670820,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187099.783,5702331.783,-38.77488670,-72.60384230
+18,2132331,2132098,equipo,Inst. de distribució,39116032,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187040.857,5702338.712,-38.77480340,-72.60451620
+18,2133019,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187018.619,5702248.607,-38.77560590,-72.60481250
+18,2133772,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186936.616,5702505.196,-38.77326920,-72.60563830
+18,2133834,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187165.390,5702414.787,-38.77416340,-72.60305100
+18,2133947,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187135.418,5702335.210,-38.77486850,-72.60343140
+18,2161316,2161321,transformador_dx,Inst. de prop. terce,37974892,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185623.766,5696545.836,-38.82639650,-72.62343720
+18,2161424,2161423,equipo,Inst. de prop. terce,38611755,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185685.607,5695941.660,-38.83185210,-72.62300200
+18,2161432,2161433,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185659.826,5695963.581,-38.83164570,-72.62328840
+18,2162986,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185020.688,5698413.772,-38.80938230,-72.62951680
+18,2163194,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184815.801,5697846.343,-38.81441200,-72.63213130
+18,2163436,2163433,transformador_dx,Inst. de distribució,40249688,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184540.680,5698327.659,-38.80998500,-72.63507340
+18,2163437,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184521.497,5698322.416,-38.81002530,-72.63529630
+18,2163452,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184541.938,5698289.408,-38.81032940,-72.63507650
+18,2163454,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184455.026,5698074.766,-38.81222860,-72.63617370
+18,2176073,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187137.410,5702166.347,-38.77638780,-72.60348500
+18,2176132,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187046.884,5702212.059,-38.77594460,-72.60450430
+18,2187935,446250,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185983.708,5700807.797,-38.78819580,-72.61735780
+18,2188041,2188043,equipo,Inst. de prop. terce,39651809,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185477.916,5699642.429,-38.79849600,-72.62370100
+18,2188291,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185714.628,5699163.568,-38.80288700,-72.62119880
+18,2193519,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185648.579,5695030.134,-38.84003640,-72.62384390
+18,2193535,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186036.427,5694780.230,-38.84242230,-72.61949810
+18,2193554,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185704.118,5694709.040,-38.84294390,-72.62335190
+18,2196806,442680,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186558.148,5701684.881,-38.78051220,-72.61035870
+18,2196810,2196809,equipo,Inst. de prop. terce,39076398,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186526.684,5701699.762,-38.78036720,-72.61071350
+18,2200773,2200771,equipo,Inst. de prop. terce,39151280,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186762.932,5702414.307,-38.77402490,-72.60767490
+18,2200924,2200923,equipo,Inst. de prop. terce,37966943,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186734.072,5702231.790,-38.77565610,-72.60808930
+18,2200929,447554,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186770.364,5702222.896,-38.77574900,-72.60767630
+18,2200975,2200973,equipo,Inst. de prop. terce,40317407,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186254.268,5701245.712,-38.78435380,-72.61404980
+18,2200986,444679,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186246.572,5701249.102,-38.78432060,-72.61413670
+18,2201218,2201219,equipo,Inst. de prop. terce,40238820,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185643.683,5699956.325,-38.79573220,-72.62165290
+18,2201227,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185615.125,5699968.167,-38.79561550,-72.62197570
+18,2201232,2201239,equipo,Inst. de prop. terce,39136939,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185519.352,5699729.928,-38.79772390,-72.62318490
+18,2201244,439294,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185591.362,5699715.773,-38.79787690,-72.62236380
+18,2201360,2201420,equipo,Inst. de prop. terce,38611336,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185594.861,5697511.976,-38.81769750,-72.62332860
+18,2201432,452923,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185606.376,5697509.655,-38.81772240,-72.62319730
+18,2201461,2201460,equipo,Inst. de prop. terce,38114002,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186210.277,5701157.995,-38.78512700,-72.61459510
+18,2201466,442075,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186205.494,5701163.687,-38.78507410,-72.61464750
+18,2204924,2037899,transformador_dx,Inst. de distribució,37727816,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187238.321,5702363.730,-38.77464850,-72.60223620
+18,2205528,1717010792,equipo,Inst. de prop. terce,38610844,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186916.390,5694495.856,-38.84529320,-72.60950830
+18,2205560,1717010787,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186902.309,5694504.221,-38.84521300,-72.60966640
+18,2209493,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186476.338,5701736.673,-38.78001740,-72.61127520
+18,2209546,446194,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185032.922,5696110.193,-38.83010320,-72.63042920
+18,2209826,2209827,equipo,Inst. de prop. terce,39564334,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185363.799,5698420.501,-38.80944440,-72.62557000
+18,2209833,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185375.957,5698427.473,-38.80938600,-72.62542710
+18,2220160,2220158,equipo,Inst. de prop. terce,40107947,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186915.027,5703065.497,-38.76822250,-72.60563230
+18,2220164,442658,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186899.371,5703045.953,-38.76839270,-72.60582110
+18,2230177,2230174,equipo,Inst. de prop. terce,37718173,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186690.284,5702038.294,-38.77738080,-72.60868010
+18,2230212,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186776.195,5701993.332,-38.77781570,-72.60771350
+18,2230227,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186774.595,5701988.684,-38.77785690,-72.60773400
+18,2230321,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186708.966,5702036.188,-38.77740640,-72.60846650
+18,2235658,2236670,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187149.413,5703375.589,-38.76551680,-72.60279930
+18,2236641,2236640,equipo,Inst. de prop. terce,37810507,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187141.813,5703372.673,-38.76554030,-72.60288800
+18,2247741,443119,transformador_dx,Inst. de distribució,38542335,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,188179.380,5694301.480,-38.84748980,-72.59507170
+18,2247776,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186936.173,5703516.977,-38.76416960,-72.60518480
+18,2247839,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,188326.021,5694644.928,-38.84445300,-72.59322970
+18,2247876,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,188112.743,5694317.648,-38.84732080,-72.59583080
+18,2247912,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,188264.833,5694366.917,-38.84693160,-72.59405930
+18,2247945,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,188392.498,5694168.484,-38.84876140,-72.59268100
+18,2247958,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186871.411,5703145.839,-38.76748440,-72.60609700
+18,2247959,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186775.028,5703103.623,-38.76782990,-72.60722330
+18,2247968,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186708.935,5703124.991,-38.76761430,-72.60797290
+18,2247985,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187369.132,5702936.117,-38.76954710,-72.60047430
+18,2247999,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186816.251,5703205.892,-38.76692480,-72.60670340
+18,2248550,2248554,transformador_dx,Inst. de distribució,39496438,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186900.206,5694968.506,-38.84103680,-72.60947930
+18,2248604,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186587.677,5701912.660,-38.77847420,-72.60991600
+18,2248618,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186649.364,5701949.982,-38.77816050,-72.60919030
+18,2248698,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187183.995,5694912.362,-38.84164260,-72.60624150
+18,2248704,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186992.162,5695137.714,-38.83954780,-72.60834500
+18,2276774,2276771,transformador_dx,Inst. de distribució,37669558,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187223.305,5702219.542,-38.77593990,-72.60247400
+18,2276779,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187220.221,5702175.308,-38.77633660,-72.60252950
+18,2276832,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187194.542,5702361.020,-38.77465730,-72.60274040
+18,2276881,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187150.611,5702377.407,-38.77449440,-72.60323770
+18,2276925,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187109.899,5702401.602,-38.77426230,-72.60369450
+18,2293185,1982237,equipo,Inst. de distribució,39222260,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186295.898,5694650.377,-38.84368260,-72.61657350
+18,2293191,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186242.086,5694630.860,-38.84383890,-72.61720120
+18,2310219,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187223.740,5702249.249,-38.77567290,-72.60245560
+18,2310223,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187228.161,5702337.307,-38.77488250,-72.60236490
+18,2310328,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187099.785,5702246.467,-38.77565390,-72.60388100
+18,2310343,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187081.313,5702266.866,-38.77546390,-72.60408390
+18,2310462,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187130.322,5702264.284,-38.77550450,-72.60352210
+18,2310561,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187175.084,5702261.994,-38.77554100,-72.60300880
+18,3016148,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187319.913,5702257.337,-38.77563420,-72.60134700
+18,3016218,3016219,transformador_dx,Inst. de distribució,37904231,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187225.987,5702307.849,-38.77514670,-72.60240320
+18,3016291,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187313.991,5702202.879,-38.77612190,-72.60143970
+18,3016320,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187277.436,5702159.494,-38.77649910,-72.60187930
+18,3020004,3019953,transformador_dx,Inst. de distribució,40108861,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185519.253,5696304.463,-38.82852990,-72.62474900
+18,3022374,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185465.450,5696303.351,-38.82852070,-72.62536810
+18,3022375,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185575.723,5696307.576,-38.82852210,-72.62409830
+18,3031313,2159156,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186755.791,5702414.444,-38.77402120,-72.60775690
+18,3038423,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186094.056,5694587.080,-38.84417990,-72.61892340
+18,3038476,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186065.430,5694053.227,-38.84897070,-72.61949620
+18,3038481,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186092.285,5694175.449,-38.84788110,-72.61913160
+18,3038555,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185830.586,5694331.961,-38.84638020,-72.62206980
+18,4118215,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185898.477,5700263.671,-38.79305900,-72.61858490
+18,4118260,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185733.381,5699670.997,-38.79833020,-72.62075210
+18,4118262,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186088.139,5700554.491,-38.79051110,-72.61627310
+18,4213532,2173074,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186743.622,5703284.281,-38.76619400,-72.60750220
+18,4213565,445821,transformador_dx,Inst. de distribució,39662512,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186714.199,5702960.756,-38.76909320,-72.60798690
+18,4213580,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186724.711,5702910.566,-38.76954830,-72.60788890
+18,5282204,5282203,transformador_dx,Inst. de distribució,37898861,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187591.517,5702955.410,-38.76945230,-72.59791080
+18,5282330,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187490.472,5702960.323,-38.76937230,-72.59906940
+18,5282334,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187600.935,5703053.933,-38.76856960,-72.59775800
+18,5282340,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187561.850,5703141.194,-38.76777100,-72.59816760
+18,5282343,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187602.571,5703158.334,-38.76763120,-72.59769200
+18,5336718,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186172.755,5701097.559,-38.78565720,-72.61505370
+18,5472792,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185549.768,5699790.318,-38.79719160,-72.62280780
+18,5472798,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185433.349,5699888.016,-38.79627150,-72.62410120
+18,5472856,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185246.095,5699882.966,-38.79625010,-72.62625540
+18,5473031,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185003.337,5699731.548,-38.79752510,-72.62911430
+18,5476813,9463788,equipo,Inst. de distribució,38428851,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185574.077,5696626.914,-38.82564960,-72.62397150
+18,5506705,1717044885,equipo,Inst. de distribució,38585341,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185568.831,5695932.049,-38.83189680,-72.62434900
+18,5506839,9596047,equipo,Inst. de distribució,40801567,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185632.826,5695728.676,-38.83374860,-72.62370610
+18,5508929,421232,equipo,Inst. de distribució,38295536,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185951.082,5694670.777,-38.84337620,-72.62052940
+18,5509155,416920,equipo,Inst. de distribució,40062626,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186097.655,5694628.999,-38.84380420,-72.61886290
+18,5509160,1982519,equipo,Inst. de distribució,40070350,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186171.952,5694606.076,-38.84403680,-72.61801900
+18,5509170,1981968,equipo,Inst. de distribució,40078610,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186158.090,5694652.856,-38.84361120,-72.61815710
+18,5641886,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186331.825,5701410.830,-38.78289640,-72.61308360
+18,5641887,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186331.825,5701410.830,-38.78289640,-72.61308360
+18,5641939,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186401.649,5701543.142,-38.78173130,-72.61222120
+18,5641955,5642043,equipo,Inst. de distribució,38257336,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186486.496,5701731.859,-38.78006430,-72.61116060
+18,5641958,5642041,equipo,Inst. de distribució,39973248,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186469.333,5701691.443,-38.78042160,-72.61137620
+18,5641959,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186542.771,5701825.498,-38.77924210,-72.61047150
+18,5642054,449707,transformador_dx,Inst. de distribució,40003477,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186416.707,5701581.106,-38.78139530,-72.61203100
+18,5658471,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185302.909,5695913.874,-38.83196520,-72.62741480
+18,5658485,1716558911,transformador_dx,Inst. de distribució,38905437,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185347.265,5695905.937,-38.83205250,-72.62690850
+18,5661454,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186909.997,5696721.977,-38.82527070,-72.60856940
+18,5661455,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187009.031,5696519.047,-38.82713090,-72.60752310
+18,5661473,9028721,transformador_dx,Inst. de distribució,39294810,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187048.483,5696502.739,-38.82729160,-72.60707690
+18,5683849,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187017.808,5696227.866,-38.82975270,-72.60755450
+18,5683850,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186872.009,5696175.351,-38.83017320,-72.60925470
+18,5685464,5685474,equipo,Inst. de distribució,38801704,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186802.773,5696194.854,-38.82997320,-72.61004190
+18,5685618,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186762.869,5701861.670,-38.77899500,-72.60792630
+18,5685639,5685631,transformador_dx,Inst. de distribució,38455757,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186740.919,5701816.968,-38.77938930,-72.60819880
+18,5774074,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186081.444,5695140.174,-38.83920130,-72.61881620
+18,5774075,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185998.710,5695275.399,-38.83795560,-72.61970590
+18,5920375,5920294,equipo,Inst. de distribució,39912926,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,183094.706,5697054.551,-38.82091510,-72.65227870
+18,5971014,9325881,transformador_dx,Inst. de distribució,39033151,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185620.445,5696898.277,-38.82322570,-72.62331450
+18,5971015,448790,transformador_dx,Inst. de distribució,38978542,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185620.374,5696852.052,-38.82364140,-72.62333650
+18,5971166,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185620.855,5696949.783,-38.82276270,-72.62328630
+18,5971174,448335,transformador_dx,Inst. de distribució,40134017,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185620.605,5696998.394,-38.82232540,-72.62326700
+18,5971219,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185668.918,5697667.596,-38.81632440,-72.62240630
+18,5971339,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185668.343,5697830.616,-38.81485810,-72.62233860
+18,5971812,446068,transformador_dx,Inst. de distribució,39425966,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185620.664,5697044.099,-38.82191440,-72.62324550
+18,6029931,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186539.543,5695013.224,-38.84050620,-72.61360630
+18,6245990,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184953.797,5695812.254,-38.83275420,-72.63147530
+18,6259431,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185511.672,5698589.422,-38.80797800,-72.62379330
+18,6259466,2158961,transformador_dx,Inst. de distribució,35904737,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185560.539,5698457.071,-38.80918570,-72.62329200
+18,6259503,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185569.445,5698433.711,-38.80939900,-72.62320030
+18,6259516,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185648.563,5698214.003,-38.81140310,-72.62239110
+18,6259534,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185662.641,5698093.640,-38.81249060,-72.62228420
+18,6401642,6401643,equipo,Inst. de prop. terce,39614384,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184918.694,5695812.358,-38.83274070,-72.63187880
+18,6751245,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185672.586,5697597.308,-38.81695780,-72.62239620
+18,6860974,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187239.347,5702935.737,-38.76950450,-72.60196540
+18,6860997,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187241.516,5702919.310,-38.76965300,-72.60194790
+18,6861359,416736,equipo,Inst. de distribució,38761546,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187159.378,5702932.720,-38.76950330,-72.60288550
+18,6885270,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187188.190,5703082.393,-38.76816740,-72.60248670
+18,6885331,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187297.395,5703090.829,-38.76813020,-72.60122830
+18,6885339,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187189.417,5703040.981,-38.76854030,-72.60249130
+18,6885343,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187217.792,5703001.563,-38.76890480,-72.60218320
+18,6885350,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187401.845,5703056.165,-38.76847900,-72.60004410
+18,6885358,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187339.321,5703009.621,-38.76887540,-72.60078350
+18,6885367,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187229.322,5702966.345,-38.76922560,-72.60206670
+18,6885370,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187299.695,5702965.979,-38.76925390,-72.60125840
+18,6885382,6885376,transformador_dx,Inst. de distribució,39662553,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187238.053,5702961.379,-38.76927340,-72.60196870
+18,6885391,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187239.347,5702935.737,-38.76950450,-72.60196540
+18,6938645,9511070,transformador_dx,Inst. de distribució,38559666,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185241.963,5699044.508,-38.80378900,-72.62668550
+18,6938649,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185225.660,5699000.050,-38.80418300,-72.62689320
+18,6970579,6970577,equipo,Inst. de distribució,39677345,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186762.785,5702452.380,-38.77368250,-72.60765930
+18,6972406,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,181324.347,5697050.003,-38.82031720,-72.67263180
+18,7888499,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186450.003,5694617.554,-38.84403270,-72.61481620
+18,7888530,7888538,transformador_dx,Inst. de distribució,39288752,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186568.414,5694497.829,-38.84515160,-72.61350910
+18,7888589,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186735.364,5694650.627,-38.84383690,-72.61151960
+18,7913429,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182650.209,5696375.991,-38.82685720,-72.65770100
+18,7915532,5715791,transformador_dx,Inst. de distribució,39077478,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185999.915,5700689.458,-38.78926590,-72.61722540
+18,7915540,9542073,transformador_dx,Inst. de distribució,40974578,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186085.973,5700910.042,-38.78731270,-72.61613620
+18,7915541,2084286,equipo,Inst. de distribució,38132179,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186078.629,5700875.369,-38.78762190,-72.61623630
+18,7917164,1717031941,equipo,Inst. de distribució,37964138,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186478.208,5701711.343,-38.78024580,-72.61126520
+18,8071633,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186722.320,5702114.209,-38.77670940,-72.60827760
+18,8071635,8071682,equipo,Inst. de prop. terce,37814058,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186713.109,5702092.604,-38.77690050,-72.60839330
+18,8071638,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186737.478,5702101.917,-38.77682540,-72.60810900
+18,8071640,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186782.713,5702089.065,-38.77695700,-72.60759520
+18,8168714,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186844.342,5701990.330,-38.77786690,-72.60693190
+18,8168847,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187121.687,5702035.546,-38.77755860,-72.60372490
+18,8168947,8168699,transformador_dx,Inst. de distribució,40327065,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186817.618,5701995.354,-38.77781220,-72.60723670
+18,8187217,8187216,equipo,Inst. de distribució,38590755,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185299.546,5698671.806,-38.80716140,-72.62619380
+18,8187266,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185226.641,5698533.604,-38.80837820,-72.62709490
+18,8187267,8187256,transformador_dx,Inst. de distribució,40297885,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185250.464,5698540.595,-38.80832390,-72.62681790
+18,8187289,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185103.485,5698445.031,-38.80913080,-72.62855090
+18,8232588,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185010.340,5696232.228,-38.82899760,-72.63063310
+18,8364121,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186502.357,5701636.262,-38.78092970,-72.61102180
+18,8435862,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185785.282,5696368.479,-38.82804920,-72.62166120
+18,8633406,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182057.742,5699549.048,-38.79810870,-72.66304860
+18,8646707,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185207.551,5699724.235,-38.79766380,-72.62677080
+18,8686811,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184437.371,5697662.843,-38.81592680,-72.63656520
+18,8686936,5282428,transformador_dx,Inst. de distribució,39264650,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184301.551,5697623.091,-38.81623560,-72.63814470
+18,8694802,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185052.013,5695796.223,-38.83293360,-72.63035330
+18,8738235,8738240,transformador_dx,Inst. de distribució,39812314,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186220.006,5701176.180,-38.78496690,-72.61447510
+18,8738236,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186233.765,5701202.455,-38.78473550,-72.61430500
+18,8744569,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186173.817,5696114.122,-38.83047520,-72.61731010
+18,8753938,8753947,equipo,Inst. de prop. terce,38657256,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186780.538,5702089.693,-38.77695060,-72.60761990
+18,8827735,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,180382.950,5697486.677,-38.81604920,-72.68325070
+18,8890155,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182004.507,5700016.615,-38.79388470,-72.66344490
+18,8932781,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,181254.462,5696856.546,-38.82203160,-72.67352460
+18,8958386,8965569,transformador_dx,Inst. de distribució,38045068,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182547.636,5696017.544,-38.83004370,-72.65904550
+18,8958387,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182491.271,5696001.099,-38.83017130,-72.65970110
+18,9020140,9193425,equipo,Inst. de distribució,37855788,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182955.424,5697074.353,-38.82068690,-72.65387070
+18,9020154,9193424,equipo,Inst. de distribució,39429334,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184284.779,5697635.890,-38.81611450,-72.63833160
+18,9020161,426681,equipo,Inst. de distribució,39136915,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,184541.708,5697871.750,-38.81408540,-72.63527030
+18,9089493,9110421,transformador_dx,Inst. de distribució,38635551,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,183220.076,5697174.621,-38.81988040,-72.65078230
+18,9089497,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,183200.864,5697135.866,-38.82022200,-72.65102100
+18,9093151,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186141.996,5695971.768,-38.83174410,-72.61774080
+18,9116860,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184991.857,5696866.760,-38.82328450,-72.63055540
+18,9149398,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187102.872,5703286.523,-38.76630130,-72.60337430
+18,9173888,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187457.346,5703435.924,-38.76508330,-72.59923470
+18,9325730,1717044803,equipo,Inst. de distribució,39022501,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185628.615,5696711.164,-38.82491140,-72.62330600
+18,9406249,9406248,equipo,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186199.963,5701139.345,-38.78529110,-72.61472210
+18,9406254,9406292,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186196.207,5701140.803,-38.78527660,-72.61476460
+18,9422048,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185618.160,5696803.278,-38.82407930,-72.62338420
+18,9426186,2036550,equipo,Inst. de distribució,38686726,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186860.190,5702203.894,-38.77595180,-72.60665300
+18,9445783,2131877,transformador_dx,Inst. de distribució,40057658,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187018.006,5702291.417,-38.77522070,-72.60480010
+18,9457096,9457092,equipo,Inst. de prop. terce,39757540,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185668.269,5700045.632,-38.79493780,-72.62132970
+18,9457121,9457118,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185660.916,5700059.073,-38.79481430,-72.62140800
+18,9458118,9458114,transformador_dx,Inst. de distribució,39525181,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182623.280,5695824.512,-38.83180690,-72.65826480
+18,9458128,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182606.102,5695813.939,-38.83189580,-72.65846710
+18,9458148,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182400.070,5695759.284,-38.83231300,-72.66086110
+18,9463792,9463796,equipo,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185534.319,5696651.796,-38.82541160,-72.62441720
+18,9463798,9463796,equipo,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185534.319,5696651.796,-38.82541160,-72.62441720
+18,9474200,9474211,transformador_dx,Inst. de distribució,38594541,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185616.001,5695764.695,-38.83341870,-72.62388310
+18,9474206,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185602.605,5695804.158,-38.83305900,-72.62401910
+18,9495648,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186996.445,5702164.789,-38.77635190,-72.60510530
+18,9495692,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182369.970,5698921.338,-38.80386620,-72.65974970
+18,9495693,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182405.820,5698807.469,-38.80490320,-72.65939010
+18,9495706,9495705,transformador_dx,Inst. de distribució,38165949,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182356.593,5698965.088,-38.80346800,-72.65988320
+18,9500702,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185034.597,5696816.214,-38.82375440,-72.63008710
+18,9500706,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185095.794,5696793.888,-38.82397710,-72.62939380
+18,9500716,9500723,transformador_dx,Inst. de distribució,37886565,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185111.233,5696802.786,-38.82390260,-72.62921220
+18,9505687,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,183225.844,5699358.335,-38.80024440,-72.64971250
+18,9542080,9542073,transformador_dx,Inst. de distribució,40974578,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186085.973,5700910.042,-38.78731270,-72.61613620
+18,9572838,9572835,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186443.972,5701654.994,-38.78074040,-72.61168410
+18,9572841,9572867,equipo,Inst. de prop. terce,37719526,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186444.516,5701638.420,-38.78088970,-72.61168540
+18,9585556,9585545,transformador_dx,Inst. de distribució,38983973,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186814.783,5702528.144,-38.77301960,-72.60702760
+18,9596178,9596162,equipo,Inst. de distribució,40831084,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186175.551,5694633.832,-38.84378850,-72.61796500
+18,9707761,9707774,equipo,Inst. de distribució,37999521,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182706.568,5696087.191,-38.82947470,-72.65718610
+18,9708211,9708209,equipo,Inst. de distribució,38191983,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,181390.859,5696045.359,-38.82937580,-72.67233190
+18,9722326,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,180841.196,5695546.444,-38.83366330,-72.67888240
+18,9722335,9722337,equipo,Inst. de prop. terce,38944103,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,180853.455,5695545.325,-38.83367780,-72.67874190
+18,9722342,9722336,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,180817.216,5695535.157,-38.83375610,-72.67916330
+18,9722703,9722702,equipo,Inst. de distribució,40297292,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,180812.114,5695815.431,-38.83123380,-72.67909200
+18,9722948,9722943,equipo,Inst. de distribució,32583041,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,180805.250,5695708.188,-38.83219570,-72.67922070
+18,9836008,9836002,transformador_dx,Inst. de distribució,39799478,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187081.434,5703316.939,-38.76602010,-72.60360680
+18,9838154,9838168,transformador_dx,Inst. de distribució,38478445,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185709.239,5695923.184,-38.83202670,-72.62273870
+18,9838192,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185714.235,5695879.191,-38.83242410,-72.62270130
+18,1716162886,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185324.503,5699327.364,-38.80127470,-72.62560780
+18,1716179549,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,183982.967,5698068.513,-38.81211560,-72.64160260
+18,1716179551,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,183952.934,5697923.264,-38.81341110,-72.64201440
+18,1716179835,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186850.291,5701811.486,-38.77947740,-72.60694470
+18,1716180601,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186194.101,5694040.945,-38.84912710,-72.61802200
+18,1716191031,1716258181,transformador_dx,Inst. de distribució,40150594,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185368.933,5699420.116,-38.80045640,-72.62505490
+18,1716487518,1716487517,equipo,Inst. de prop. terce,36370658,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186496.971,5701751.346,-38.77989270,-72.61103140
+18,1716487519,1716487522,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186478.991,5701746.823,-38.77992700,-72.61124010
+18,1716535323,1716535275,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185548.106,5698490.428,-38.80888130,-72.62341970
+18,1716535339,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185530.190,5698544.258,-38.80839080,-72.62360110
+18,1716543737,1992695,transformador_dx,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186291.318,5694022.091,-38.84933130,-72.61691260
+18,1716556398,1716556418,transformador_dx,Inst. de distribució,36363923,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185914.213,5696581.121,-38.82618280,-72.62008190
+18,1716562363,,otro,Inst. de prop. terce,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,180841.672,5695992.386,-38.82965320,-72.67867020
+18,1716562519,1716562502,equipo,Inst. de prop. terce,37072266,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,179480.597,5695832.771,-38.83059410,-72.69439210
+18,1716562648,1716562549,equipo,Inst. de prop. terce,37077231,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,179480.660,5695831.175,-38.83060850,-72.69439210
+18,1716562711,1716562724,equipo,Inst. de prop. terce,37077231,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,179480.916,5695828.877,-38.83062930,-72.69439020
+18,1716597002,1716597000,transformador_dx,Inst. de distribució,38284473,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186755.075,5702810.577,-38.77045830,-72.60758540
+18,1716597003,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186743.652,5702861.538,-38.76999590,-72.60769350
+18,1716737004,1716737042,transformador_dx,Inst. de distribució,37971567,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182963.907,5697415.738,-38.81761990,-72.65361610
+18,1716737007,1716737042,transformador_dx,Inst. de distribució,37971567,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182963.907,5697415.738,-38.81761990,-72.65361610
+18,1716743790,1717062343,transformador_dx,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187131.221,5703672.112,-38.76284350,-72.60287400
+18,1716995470,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,187310.045,5702915.434,-38.76971210,-72.60116240
+18,1716999611,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182624.408,5699844.850,-38.79565280,-72.65640050
+18,1716999641,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182509.149,5700094.385,-38.79336730,-72.65761010
+18,1717031942,1717031941,equipo,Inst. de distribució,37964138,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186478.208,5701711.343,-38.78024580,-72.61126520
+18,1717031999,1717031997,equipo,Inst. de distribució,39808727,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185924.401,5700534.842,-38.79062950,-72.61816350
+18,1717044733,,otro,Inst. de distribució,,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185662.576,5697341.096,-38.81925840,-72.62262820
+18,1717044742,1717044739,equipo,Inst. de distribució,160675355,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185635.262,5697321.788,-38.81942230,-72.62295100
+18,1717044804,1717044803,equipo,Inst. de distribució,39022501,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185628.615,5696711.164,-38.82491140,-72.62330600
+18,1717075694,1717075692,equipo,Inst. de distribució,38454024,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,187634.733,5702958.582,-38.76943910,-72.59741290
+18,1717149100,1717149090,transformador_dx,Inst. de distribució,40259650,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,182528.595,5698417.466,-38.80845470,-72.65815860
+18,1717149113,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,182512.127,5698475.082,-38.80793060,-72.65832140
+18,1717168344,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185938.671,5694664.497,-38.84342820,-72.62067500
+18,1717201791,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,184560.409,5698973.995,-38.80417950,-72.63455090
+18,1717205121,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185795.416,5700272.990,-38.79293840,-72.61976500
+18,1717266881,447799,transformador_dx,Inst. de distribució,322694229,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185999.716,5695125.196,-38.83930680,-72.61976280
+18,1717266888,,otro,Inst. de distribució,,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,186021.146,5695091.980,-38.83961320,-72.61953160
+18,1717306126,1717306009,equipo,Inst. de distribució,306449441,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185810.299,5696265.236,-38.82898660,-72.62142070
+18,1717306171,1717306168,equipo,Inst. de distribució,306450600,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186137.733,5696225.834,-38.82945770,-72.61767400
+18,1717306186,1717306181,equipo,Inst. de distribució,306450527,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186179.877,5696219.891,-38.82952620,-72.61719220
+18,1717306208,1717306201,equipo,Inst. de distribució,39785283,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,186193.021,5696197.084,-38.82973600,-72.61705150
+18,1717326393,1717326392,transformador_dx,Inst. de distribució,323101252,KC24A,Puesta a tierra de p,Conductor Cobre,,PSAD56,19,185606.526,5697460.368,-38.81816570,-72.62321810
+18,1717326398,1717044762,equipo,Inst. de distribució,38449578,KB24A,Puesta a tierra de s,Conductor Cobre,,PSAD56,19,185612.596,5697433.721,-38.81840760,-72.62316050

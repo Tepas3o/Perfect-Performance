@@ -1,0 +1,10 @@
+empresa_id,equipo_id,nom_equipo,propiedad,cudn,nodo_id,alimentador_id,tension_prim,cap_nom,num_fases,modo_op,desc_modo,num_etapas,datum,zona,x,y,lat,long
+18,9422100,67824,Inst. de distribució,QA3AD3BK01A0400,,678,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,185632.553,5696754.372,-38.82452420,-72.62324100
+18,9463799,56797,Inst. de distribució,QA3AD3BK01A0400,38448844,678,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,185534.319,5696651.796,-38.82541160,-72.62441720
+18,9542069,RE 27KV 630A 55429 Placa  492439,Inst. de distribució,QC3AD3BK01A0630,38046312,678,,630 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,186085.973,5700910.042,-38.78731270,-72.61613620
+18,9585533,58153,Inst. de distribució,QC3AD3BK01A0630,38940031,678,,630 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,186814.783,5702528.144,-38.77301960,-72.60702760
+18,1716156243,REC 3700488,Inst. de distribució,QA3AD3BK01A0400,38478445,678,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,185709.239,5695923.184,-38.83202670,-72.62273870
+18,1716157365,REC 3700499,Inst. de distribució,QA3AD3BK01A0400,39666713,678,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,187081.434,5703316.939,-38.76602010,-72.60360680
+18,1716562502,REC 3700747,Inst. de prop. terce,QC3AD3BK01A0630,37072266,678,,630 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,179480.597,5695832.771,-38.83059410,-72.69439210
+18,1716743743,REC 3700950,Inst. de distribució,QA3AD3BK01A0400,134748958,678,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,187131.221,5703672.112,-38.76284350,-72.60287400
+18,1717018497,REC6406,Inst. de distribució,QA3AD3BK01A0400,37690874,678,,400 Amperes,3,Banco de condensadores (con controlador),Controlador horario,1,PSAD56,19,181995.972,5700094.405,-38.79318210,-72.66350710

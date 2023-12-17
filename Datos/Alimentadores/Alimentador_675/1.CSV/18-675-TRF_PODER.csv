@@ -1,0 +1,2 @@
+empresa_id,trf_poder_id,nemotecnico,trf_poder_id_coord,nom_propietario,subestacion_id,tension_trf_at,tensión_trf_mt,cambiador_trf,consigna_tension,lim_inf_tension,lim_sup_tension,pot_trf_mva,dda_min_dia_mw,dda_min_noche_mw,dda_max_dia_mw,dda_max_noche_mw,gen_pmgd_ns,gen_pmgd_sca,gen_pmgd
+18,146,ET02T058SE084T058,146,CGE TRANSMISION S.A.,SE084T005,69,15.3,Si,0,0,0,30,0,0,0,0,2.88,,2.88
